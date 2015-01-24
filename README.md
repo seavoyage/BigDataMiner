@@ -1,2 +1,2 @@
 # BigDataMiner
-Environ: R, RStudio, Python, Docker, Scala/Akka, Hadoop HDFS, Spark, MLib, GraphX, SparkSQL
+Environ: iPython Notebook, Django, Plotly, Docker, Hadoop HDFS, Spark, MLib, GraphX, SparkSQL
